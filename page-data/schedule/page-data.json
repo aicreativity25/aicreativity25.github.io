@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-basic-js",
+    "path": "/schedule",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Schedule","path":"/schedule"},"fields":{"slug":"/basic/schedule/"},"html":"<p>The workshop will last for three days, from July 3rd to 5th. We will post the\ndetailed schedule closer to the event.</p>"}},"pageContext":{"id":"2ff0dd02-c821-5f41-8ecc-1ef1ca23da94"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

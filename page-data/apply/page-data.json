@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-basic-js",
+    "path": "/apply",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Application // Call for papers","path":"/apply"},"fields":{"slug":"/basic/apply/"},"html":""}},"pageContext":{"id":"489b3910-8bf0-572c-becc-198d06e96851"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

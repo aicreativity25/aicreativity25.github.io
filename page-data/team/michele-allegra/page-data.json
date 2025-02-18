@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/michele-allegra/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Michele Allegra"},"fields":{"slug":"/team/michele-allegra/"},"html":"<p>Approaches to brain controllability</p>"}},"pageContext":{"id":"ca84890c-73b0-5054-81db-2ed0f99d542b"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

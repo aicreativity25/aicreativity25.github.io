@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/hachen/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Iacopo Hachen"},"fields":{"slug":"/team/hachen/"},"html":"<p>Dynamics of history-dependent perceptual judgment</p>"}},"pageContext":{"id":"dabc5ac0-1720-5adf-9c2f-2db06cc6a6a3"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

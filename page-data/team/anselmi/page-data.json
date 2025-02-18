@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/anselmi/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Fabio Anselmi"},"fields":{"slug":"/team/anselmi/"},"html":"<p>A Fourier analysis of neural networks preferred features for recognition</p>"}},"pageContext":{"id":"d1e42560-a57f-54c4-a3da-15b1eaa8cbbd"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

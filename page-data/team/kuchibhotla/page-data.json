@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/kuchibhotla/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Kishore Kuchibhotla"},"fields":{"slug":"/team/kuchibhotla/"},"html":"<p>Revealing latent knowledge in cortical networks during goal-directed learning</p>"}},"pageContext":{"id":"2daba66b-c75a-5431-bac5-ea4b8c79e35b"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-team-js",
+    "path": "/team/schuonsberg/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Francesca Schönsberg"},"fields":{"slug":"/team/schuonsberg/"},"html":"<p>The breaking point of the continuous quasi-attractor model for spatial memories</p>"}},"pageContext":{"id":"9f358c6f-902f-59b1-9188-856bc2829a99"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
