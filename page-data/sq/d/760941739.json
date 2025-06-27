@@ -1,1 +1,1 @@
-{"data":{"allMainMenuJson":{"edges":[{"node":{"name":"Schedule","url":"/schedule/","weight":2}},{"node":{"name":"Concert","url":"/concert","weight":2}},{"node":{"name":"About","url":"/about/","weight":4}}]}}}
+{"data":{"allMainMenuJson":{"edges":[{"node":{"name":"Schedule","url":"/schedule/","weight":2}},{"node":{"name":"Poster","url":"https://aicreativity25.github.io/images/locandina.pdf","weight":2}},{"node":{"name":"Concert","url":"/concert","weight":2}},{"node":{"name":"About","url":"/about/","weight":4}}]}}}
